@@ -1,5 +1,5 @@
 // ข้อ4.1
-async function getAllUser(){
+function getAllUser(){
     //TODO
     // 1. ให้ใช้ Try Catch
     // 2. เรียกใช้ฟังก์ชัน ApiDelay()
