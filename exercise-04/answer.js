@@ -28,8 +28,8 @@ async function fetchData(password) {
 */
 
 async function ApiDelay () {
-      return new Promise(resovle => {
-        setTimeout(() => resovle(_fakeAPI()), 2000)
+      return new Promise(resolve => {
+        setTimeout(() => resolve(_fakeAPI()), 2000)
     })
 }
 
